@@ -1,0 +1,148 @@
+.h {
+  width: 1219px;
+  height: 84px;
+  margin-top: -84px;
+  background-color: #007765;
+  margin-left: 350px;
+  position: fixed;
+}
+.b {
+  width: 1219px;
+  margin-top: 84px;
+  margin-left: 350px;
+}
+.h_text {
+  display: inline-block;
+  font-family: sans-serif;
+  font-size: large;
+  float: right;
+  padding-left: 500px;
+  padding-right: 55px;
+  padding-top: 30px;
+  color: white;
+}
+.h_logo {
+  display: inline-block;
+  text-align: left;
+  padding-top: 12px;
+  padding-left: 55px;
+  display: inline-block;
+}
+.h1 {
+  background-image: url("image1.jpg");
+  background-size: cover;
+  background-position: center;
+  margin-top: 13px;
+  padding-top: 160px;
+  padding-bottom: 160px;
+}
+h1 {
+  color: white;
+  text-align: center;
+  box-sizing: border-box;
+  max-width: 1219px;
+  padding-left: 55px;
+  padding-right: 55px;
+  font-family: sans-serif;
+  font-weight: 500;
+  font-size: 72px;
+  line-height: 56px;
+}
+h2 {
+  color: #007765;
+  text-align: center;
+  font-size: 64px;
+  padding-top: 48px;
+  padding-bottom: 16px;
+  font-family: sans-serif;
+  margin-top: 0%;
+  margin-bottom: 0px;
+}
+.problem > p {
+  font-size: 32px;
+  font-family: sans-serif;
+  padding-left: 55px;
+  padding-right: 55px;
+  margin-top: 0%;
+  margin-bottom: 1em;
+}
+
+.hero {
+  background-image: url("image.jpg");
+  color: white;
+  font-size: 48px;
+  font-style: italic;
+  font-family: sans-serif;
+  background-size: cover;
+  background-position: center;
+  margin-top: 90px;
+  padding-top: 128px;
+  padding-bottom: 128px;
+  padding-left: 160px;
+  padding-right: 160px;
+  text-align: center;
+}
+.intro {
+  font-size: 32px;
+  font-family: sans-serif;
+  padding-left: 55px;
+  padding-right: 55px;
+  margin-top: 0%;
+  margin-bottom: 1em;
+}
+.intro img {
+  float: left;
+}
+.intro blockquote {
+  margin-left: 163px;
+  margin-top: 5px;
+}
+.team {
+  background-image: url("bg1.jpg");
+  margin-top: 92px;
+  padding-bottom: 100px;
+}
+.block {
+  display: inline-block;
+
+  width: 168px;
+  height: 168px;
+  margin: 50px 0px 100px 140px;
+}
+figcaption .top {
+  color: #007765;
+  font-size: 24px;
+  text-align: center;
+  width: 250px;
+  margin-left: -38px;
+  font-family: sans-serif;
+  font-weight: bold;
+  margin-top: 5px;
+}
+figcaption .bot {
+  font-family: sans-serif;
+  font-style: italic;
+  font-size: 18px;
+  text-align: center;
+  width: 200px;
+  margin-left: -15px;
+  margin-top: -20px;
+}
+.end > p {
+  background-color: #333333;
+  color: white;
+  font-size: 18px;
+  text-align: center;
+  font-family: sans-serif;
+  padding: 48px 340px 64px;
+  margin-top: 0%;
+}
+a {
+  text-decoration: none;
+}
+
+.anchor {
+  display: block;
+  position: relative;
+  top: -84px;
+}
